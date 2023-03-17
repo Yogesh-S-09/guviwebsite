@@ -1,0 +1,35 @@
+.image{
+    align-items: left;
+    width:30%;
+
+}
+.text-end{
+    margin-left: 40%;
+}
+.quote{
+    margin-left: auto ;
+    margin-right: auto ;
+    width: 70%;
+    text-justify: auto;
+}
+body{
+    background: url('../assets/back.jpg');
+}
+.input{
+    padding: 3%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10%;
+    margin-bottom: 10%;
+    background: rgb(2,0,36);
+    background: radial-gradient(circle, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 0.5%, rgba(0,212,255,1) 100%);
+    border-radius: 2%;
+    border-color: black;
+    border-style: solid;
+    color: aliceblue;
+    width: 40%;
+}
+
+.btn{
+    margin-top: 4%;
+}
